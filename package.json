@@ -1,8 +1,13 @@
 {
-  "name": "react-native-library-boilerplate",
-  "version": "0.0.11",
-  "description": "Description for library",
+  "name": "react-native-improved-text-input",
+  "version": "0.0.1",
+  "description": "Improved Text Input with placeholder style option for React Native",
   "keywords": [
+    "improved",
+    "text-input",
+    "text",
+    "input",
+    "improved-text-input",
     "FreakyCoder",
     "freakycoder",
     "kuray",
@@ -14,9 +19,9 @@
     "rn"
   ],
   "homepage": "https://www.freakycoder.com",
-  "bugs": "https://github.com/WrathChaos/react-native-library-boilerplate/issues",
-  "main": "./lib/src/index.js",
-  "repository": "git@github.com:WrathChaos/react-native-library-boilerplate.git",
+  "bugs": "https://github.com/WrathChaos/react-native-improved-text-input/issues",
+  "main": "./lib/src/ImprovedTextInput.js",
+  "repository": "git@github.com:WrathChaos/react-native-improved-text-input.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
