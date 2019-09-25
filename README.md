@@ -15,7 +15,7 @@
 
 <p align="center">
   <img alt="React Native Improved Text Input"
-        src="https://github.com/WrathChaos/react-native-improved-text-input/blob/master/assets/Screenshots/JSLibraryBoilerplate.png" />
+        src="assets/Screenshots/example.gif" />
 </p>
 
 ## Installation
