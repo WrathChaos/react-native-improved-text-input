@@ -28,26 +28,17 @@ Add the dependency:
 npm i react-native-improved-text-input
 ```
 
-## Peer Dependencies
-
-###### IMPORTANT! You need install them.
-
-```
-"react": ">= 16.x.x",
-"react-native": ">= 0.55.x",
-```
-
 # Usage
 
 ## Import
 
-```js
+```typescript
 import TextInput from "react-native-improved-text-input";
 ```
 
 # Complete Example Usage
 
-```js
+```typescript
 import React, { useState } from "react";
 import { View, StatusBar, SafeAreaView } from "react-native";
 import TextInput from "react-native-improved-text-input";
