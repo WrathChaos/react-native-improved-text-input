@@ -1,10 +1,9 @@
 import * as React from "react";
-import {StyleProp, TextInput, TextStyle} from "react-native";
+import {StyleProp, TextInput, TextStyle, TextInputProps} from "react-native";
 
-export interface ImprovedTextInputProps {
+export interface ImprovedTextInputProps extends TextInputProps {
     style?: StyleProp<TextStyle>;
     placeholderStyle?: StyleProp<TextStyle>;
-    value?: string | null;
 }
 
 const ImprovedTextInput: React.FC<ImprovedTextInputProps> = ({ style, placeholderStyle, value, ...rest }) => (
